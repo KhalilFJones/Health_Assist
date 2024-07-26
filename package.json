@@ -2,7 +2,7 @@
   "name": "health_assist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/Health_Assist",
+  "homepage": "https://khalilfjones.github.io/Health_Assist",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
