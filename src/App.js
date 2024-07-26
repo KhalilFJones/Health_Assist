@@ -11,7 +11,7 @@ import { AuthProvider } from "./AuthContext";
 function App() {
   return (
     <AuthProvider>
-      <Router basename="/Health-Plus">
+      <Router basename="/Health_Assist">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/legal" element={<Legal />} />
