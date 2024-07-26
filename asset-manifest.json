@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Health_Assist/static/css/main.3b66b953.css",
-    "main.js": "/Health_Assist/static/js/main.ba8d9dd3.js",
-    "static/media/profile-1.png": "/Health_Assist/static/media/profile-1.e3a5a4bab78374cd9f50.png",
-    "static/media/profile-2.png": "/Health_Assist/static/media/profile-2.3c6ac21d2c83a7a8fa97.png",
-    "static/media/profile-4.png": "/Health_Assist/static/media/profile-4.d8ffd7b3ff08d5ad0db9.png",
-    "static/media/profile-3.png": "/Health_Assist/static/media/profile-3.17d5b531d52e0acd726d.png",
-    "static/media/doctor-picture.png": "/Health_Assist/static/media/doctor-picture.066fa72338dd6645ad98.png",
-    "static/media/doctor-book-appointment.png": "/Health_Assist/static/media/doctor-book-appointment.f43599cbcd7c28eab6ee.png",
-    "index.html": "/Health_Assist/index.html",
-    "main.3b66b953.css.map": "/Health_Assist/static/css/main.3b66b953.css.map",
-    "main.ba8d9dd3.js.map": "/Health_Assist/static/js/main.ba8d9dd3.js.map"
+    "main.css": "./static/css/main.3b66b953.css",
+    "main.js": "./static/js/main.41c33815.js",
+    "static/media/profile-1.png": "./static/media/profile-1.e3a5a4bab78374cd9f50.png",
+    "static/media/profile-2.png": "./static/media/profile-2.3c6ac21d2c83a7a8fa97.png",
+    "static/media/profile-4.png": "./static/media/profile-4.d8ffd7b3ff08d5ad0db9.png",
+    "static/media/profile-3.png": "./static/media/profile-3.17d5b531d52e0acd726d.png",
+    "static/media/doctor-picture.png": "./static/media/doctor-picture.066fa72338dd6645ad98.png",
+    "static/media/doctor-book-appointment.png": "./static/media/doctor-book-appointment.f43599cbcd7c28eab6ee.png",
+    "index.html": "./index.html",
+    "main.3b66b953.css.map": "./static/css/main.3b66b953.css.map",
+    "main.41c33815.js.map": "./static/js/main.41c33815.js.map"
   },
   "entrypoints": [
     "static/css/main.3b66b953.css",
-    "static/js/main.ba8d9dd3.js"
+    "static/js/main.41c33815.js"
   ]
 }
